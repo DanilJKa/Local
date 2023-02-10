@@ -1,0 +1,33 @@
+ssh-keygen -t rsa
+ssh keygen -t rsa
+r
+
+ssh-keygen -t rsa
+cat \rsa\id_rsa.pub
+cat .ssh\id_rsa.pub
+cat .ssh/id_rsa.pub
+git init
+git add README.md 
+git init
+git config
+user.danila.bessonov05@gmail.com
+user. danila.bessonov05@gmail.com
+user.email danila.bessonov05@gmail.com
+git init
+user.email=danila.bessonov05@gmail.com
+git config user.email=danila.bessonov05@gmail.com
+user.email=danila.bessonov05@gmail.com
+user.mail=danila.bessonov05@gmail.com
+user.email=danila.bessonov05@gmail.com
+git -all
+git add*
+add
+git config user.email "danila.bessonov05@gmail.com"
+git config user.name DanilJKa
+git config user.email "danila.bessonov05@gmail.com"
+git config user.name DanilJKa
+
+git add*
+--help
+help
+history
